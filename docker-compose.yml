@@ -3,4 +3,4 @@ services:
   reactjs-demo:
     image: "reactjs-demo:v1"
     ports:
-      - "80:3000"
+      - "8000:3000"
