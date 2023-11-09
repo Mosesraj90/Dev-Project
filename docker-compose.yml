@@ -1,6 +1,6 @@
 version: '3'
 services:
   reactjs-demo:
-    image: "reactjs-demo:v1"
+    image: "Reactjs:v1"
     ports:
       - "80:80"
